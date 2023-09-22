@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HalloGurl
 - 👀 I’m interested in coding and Web development 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning web development 
 - 📫 contact me via email
 - coachhouse06@gmail.com
 
